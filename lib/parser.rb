@@ -1,3 +1,5 @@
+#understands parsing JSON file into memory
+
 require 'json'
 
 class Parser

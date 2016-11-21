@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require_relative 'parser'
+require_relative 'appointment'
 
 time = ARGV[0]
 hour = (ARGV[0].to_s).partition(':')[0]

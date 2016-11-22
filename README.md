@@ -1,4 +1,4 @@
-# Babylon Ruby Test
+# Appointment Booker
 Your task is to create an app that will allow patients to book appointments with a doctor, using the dataset provided.
 
 ## Requirements
